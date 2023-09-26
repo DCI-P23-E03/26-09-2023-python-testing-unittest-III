@@ -2,14 +2,14 @@
 
 
 
-```markdown
+
 # Python Unit Testing Exercises
 
 In this set of exercises, you'll practice unit testing in Python using the `unittest` framework. Each exercise focuses on a different scenario, and you'll use various assertion methods provided by `unittest`.
 
 ## Exercise 1: Testing an Email Validator
 
-Imagine you have a `EmailValidator` class that checks the validity of email addresses. Create unit tests for this class using assertions like `assertTrue`, `assertFalse`, and `assertRegex`.
+Imagine you have an `EmailValidator` class that checks the validity of email addresses. Create unit tests for this class using assertions like `assertTrue`, `assertFalse`, and `assertRegex`.
 
 ```python
 # email_validator.py
@@ -203,4 +203,3 @@ if __name__ == '__main__':
 ```
 
 
-You can copy and paste the content above into a Markdown (.md) file and share it with your students for practice.
